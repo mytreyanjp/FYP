@@ -3,7 +3,7 @@ import re
 
 # Load the datasets
 player_stats_df = pd.read_csv('player_statistics_all_seasons.csv')
-events_df = pd.read_csv('DS_event_with_timestamps.csv')  # Assuming you have this file
+events_df = pd.read_csv('DS_event_with_timestamps_clean2.csv')  # Assuming you have this file
 matches_df = pd.read_csv('DS_match_modified.csv')  # Assuming you have this file
 
 # Function to extract team names from match result

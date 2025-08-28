@@ -1,0 +1,39 @@
+feature,pca_loading
+Raid Successful,0.40833269794948057
+Tackle Successful,0.38533995341767574
+Tackle Unsuccessful,0.38517326006447755
+Super Tackle,0.3778074208665362
+raid_success_rate,0.34838518933255147
+Raid Unsuccessful,0.29662633710258957
+Super Raid,0.27356983433347504
+Bonus Point,0.241897948692748
+tackle_success_rate,0.2063937778677257
+Assist,0.09126212171259812
+contribution_ratio,0.006243260739712333
+do_or_die_points,0.0
+team_name,0.0
+player_id,0.0
+match_played,0.0
+position_id,0.0
+position_name,0.0
+high_5s,0.0
+avg_raid_points,0.0
+raid_points,0.0
+successful_raids,0.0
+successful_tackles,0.0
+super_10s,0.0
+super_raids,0.0
+super_tackles,0.0
+tackle_points,0.0
+total_points,0.0
+z_score_do_or_die_points,0.0
+z_score_high_5s,0.0
+z_score_avg_raid_points,0.0
+z_score_raid_points,0.0
+z_score_successful_raids,0.0
+z_score_successful_tackles,0.0
+z_score_super_10s,0.0
+z_score_super_raids,0.0
+z_score_super_tackles,0.0
+z_score_tackle_points,0.0
+z_score_total_points,0.0
